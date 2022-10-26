@@ -1,0 +1,35 @@
+html {
+    background-color: #8e2528;
+}
+
+.rounded-corners {
+    width: 100px;
+}
+  
+.rounded-corners {
+    border-radius: 6px;
+}
+  
+.headerapp {
+    text-align: center;
+    margin: 5px 260px 0px 260px;
+    padding: 1em 1em 0px 0px;
+    border-radius: 6px;
+    background-color: #d1bfc7;  
+    border: solid #402e30 2px;
+}
+  
+.h1-header {
+    font-family: "Oxygen", sans-serif;
+    color: #8e2528;
+    font-size: 2em;
+    font-weight: 900;
+}
+
+.choose-a-currency {
+    color: white;
+}
+
+.name {
+    color: white;
+}
